@@ -5,3 +5,4 @@ wheel
 sphinx_rtd_theme
 pypandoc
 twine
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
